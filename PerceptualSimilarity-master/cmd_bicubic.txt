@@ -1,1 +1,0 @@
-python compute_dists_dirs.py -d0 /scratch/lschmutz/mmsr-master/datasets/val480bicubic -d1 /volta/lschmutz/mmsr-master/datasets/val480GT -o imgs/LPIPS_bicubic.txt --use_gpu
