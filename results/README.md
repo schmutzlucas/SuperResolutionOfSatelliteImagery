@@ -1,1 +1,1 @@
-You can ask for the datasets used for the project at : lucas.schmutz@unil.ch
+You can ask for the results produced at : lucas.schmutz@unil.ch
