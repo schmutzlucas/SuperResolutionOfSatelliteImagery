@@ -1,0 +1,1 @@
+python compute_dists_dirs.py -d0 /volta/lschmutz/mmsr-master/results/RRDB_ESRGAN_x4_batch32/SENTINEL-2a_480_batch32 -d1 /volta/lschmutz/mmsr-master/datasets/val480GT -o imgs/LPIPS_spec32.txt --use_gpu
